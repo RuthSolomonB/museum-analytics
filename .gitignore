@@ -1,0 +1,15 @@
+# Ignore the massive dataset
+*.csv
+*.txt
+
+# Ignore Node modules for all subdirectories
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore environment files
+.env
+.DS_Store
+
+# Ignore the data folder
+openaccess/
